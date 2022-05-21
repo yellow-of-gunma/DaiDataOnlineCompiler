@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DaiDataOnlineCompiler/build/static/css/main.073c9b0a.css",
+    "main.js": "/DaiDataOnlineCompiler/build/static/js/main.05431e1a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/DaiDataOnlineCompiler/build/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/DaiDataOnlineCompiler/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DaiDataOnlineCompiler/build/index.html",
+    "main.073c9b0a.css.map": "/DaiDataOnlineCompiler/build/static/css/main.073c9b0a.css.map",
+    "main.05431e1a.js.map": "/DaiDataOnlineCompiler/build/static/js/main.05431e1a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/DaiDataOnlineCompiler/build/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.05431e1a.js"
+  ]
+}
